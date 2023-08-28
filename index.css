@@ -49,3 +49,59 @@ padding:216px 230px 216px 845px;
     margin-left: 650px;
 
 }
+
+
+/* ----------------header section end------------- */
+
+/* -------------main section start ----------------- */
+
+main{
+    margin: 230px 130px;
+}
+
+.failures{
+    display: flex;
+    align-items: center;
+}
+.failures-content1{
+    margin-left: 130px;
+}
+
+.failures-content{
+   margin-left: 300px;
+    
+}
+
+.failures-heading{
+    width: 288;
+    font-size: 40px;
+    font-weight: 700px;
+    margin-bottom: 24px;
+}
+
+    .failures-blog{
+        width: 416px;
+        font-size: 16px;
+        font-weight: 400px;
+        margin-bottom: 17px;
+    }
+
+    
+    .failures-list{
+        list-style-type: none;
+        margin: 0px;
+        padding: 0px;
+
+       
+    }
+    .list-item:before{
+         
+            content: '✓';
+            color: aqua;
+          
+    }
+    .list-item{
+        font-size: 16px;
+        font-weight: 400px;
+        color: #444343;
+    }
