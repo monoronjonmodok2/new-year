@@ -1,0 +1,51 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Work Sans', sans-serif;
+margin: 0px;
+}
+
+header{
+    background-image: url(images/banner/banner1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+   
+   
+
+}
+.header-content{
+padding:216px 230px 216px 845px;
+    
+}
+
+
+.heading{
+    text-align: right;
+    color: #151414;
+    font-size: 65px;
+    font-weight: 700px;
+    margin-bottom: 24px;
+
+    
+}
+.heading-blog{
+    text-align: right;
+    
+    font-size: 16px;
+    font-weight: 400px;
+    color: #444343;
+    margin-bottom: 53px;
+    
+}
+
+
+.btn-praimary{
+    color: #fff;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600px;
+    padding: 20px 21px;
+    background-color:#F15B22 ;
+    border-radius: 5px;
+    margin-left: 650px;
+
+}
